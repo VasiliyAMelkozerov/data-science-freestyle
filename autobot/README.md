@@ -11,3 +11,5 @@ This project has a couple of different moving parts.
     - It would also locally store a list of the company name as well as the postition.
 
 I have found Selenium so far as a good library to be able to traverse the internet with.
+
+<img src="20220829_115931.jpg">
